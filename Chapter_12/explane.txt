@@ -1,0 +1,4 @@
+g++ -c Employee.h Employee.cpp
+g++ -c DataBase.h DataBase.h
+g++ -o project Employee.o DataBase.o
+
